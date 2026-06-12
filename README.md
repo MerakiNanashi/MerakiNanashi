@@ -157,15 +157,6 @@ Julia • Flux.jl • PostgreSQL • Time-Series Forecasting
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MerakiNanashi&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MerakiNanashi" />
-</p>
-
----
-
 ## 🤝 Connect
 
 💼 LinkedIn: https://linkedin.com/in/mahika-rastogi
